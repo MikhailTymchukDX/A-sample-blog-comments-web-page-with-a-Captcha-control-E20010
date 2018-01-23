@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+  <comment>
+    <authorName>Mehul Harry (Developer Express)</authorName>
+    <postTime>5/27/2010 12:52:36 PM</postTime>
+    <body>Captcha controls are very handy!</body>
+  </comment>
+  <comment>
+    <authorName>Mehul Harry (Developer Express)</authorName>
+    <postTime>3/22/2010 4:30:00 PM</postTime>
+    <body>@Henrik,
+
+I don't believe the initial release will contain an input timing feature but you can create a suggestion once the ASPxCaptcha is released and we'll consider it for a future release. Thanks!
+</body>
+  </comment>
+  <comment>
+    <authorName>Henrik Brinch</authorName>
+    <postTime>3/22/2010 4:29:27 PM</postTime>
+    <body>Looking forward to go Captcha :)
+
+Will the ASPxCaptcha control make use of timing-algorithm to determine if the input was performed by a human or a computer.  A human won't be able to enter a captcha in less than e.g. X seconds whereas a computer will do it in zero seconds.   It would be great if you also will implement this!
+</body>
+  </comment>
+  <comment>
+    <authorName>Mehul Harry (Developer Express)</authorName>
+    <postTime>3/22/2010 4:29:03 PM</postTime>
+    <body>Thanks Chris! Will try to get a screencast recorded for it soon. </body>
+  </comment>
+  <comment>
+    <authorName>Chris Walsh [DX-Squad]</authorName>
+    <postTime>3/22/2010 4:28:33 PM</postTime>
+    <body>Awesome post Mehul.  Great work Team!</body>
+  </comment>
+</comments>

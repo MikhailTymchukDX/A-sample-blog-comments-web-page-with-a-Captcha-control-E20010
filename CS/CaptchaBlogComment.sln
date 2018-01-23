@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CaptchaBlogComment\", "CaptchaBlogComment\", "{5E0B7997-7F8E-44C4-A2AA-8D54638D1E9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/CaptchaBlogComment"
+		Debug.AspNetCompiler.PhysicalPath = "CaptchaBlogComment\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CaptchaBlogComment\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CaptchaBlogComment"
+		Release.AspNetCompiler.PhysicalPath = "CaptchaBlogComment\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CaptchaBlogComment\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64067"
+	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0B7997-7F8E-44C4-A2AA-8D54638D1E9E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{5E0B7997-7F8E-44C4-A2AA-8D54638D1E9E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
